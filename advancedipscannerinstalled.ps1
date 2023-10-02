@@ -1,3 +1,16 @@
+<#
+.SUMMARY
+    Checks if Advanced IP Scanner is installed. If not, it installs the application.
+.NOTES
+    Author: John Monnett
+    Date: 10.1.23
+    Type: Public
+    Version: 1.0.0
+.LINKS
+    https://github.com/jcmonnett
+#>
+
+
 # Define the download URL and installation directory
 $downloadUrl = "https://www.advanced-ip-scanner.com/download/ipscan.exe"
 $installDirectory = "C:\Program Files (x86)\Advanced IP Scanner"
