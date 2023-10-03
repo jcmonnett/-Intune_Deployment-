@@ -1,13 +1,12 @@
 <#
-.SUMMARY
+.SYNOPSIS
     Checks if Advanced IP Scanner is installed. If it is, it uninstalls the application silently.
 .NOTES
     Author: John Monnett
     Date: 10.1.23
     Type: Public
     Version: 1.0.0
-.LINKS
-    https://github.com/jcmonnett
+    Links: https://github.com/jcmonnett
 #>
 
 # Define the application name
