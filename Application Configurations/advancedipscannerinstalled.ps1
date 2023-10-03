@@ -1,13 +1,12 @@
 <#
-.SUMMARY
+.SYNOPSIS
     Checks if Advanced IP Scanner is installed. If not, it installs the application.
 .NOTES
     Author: John Monnett
     Date: 10.1.23
     Type: Public
     Version: 1.0.0
-.LINKS
-    https://github.com/jcmonnett
+    Links: https://github.com/jcmonnett
 #>
 
 
